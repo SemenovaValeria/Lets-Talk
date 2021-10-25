@@ -9,6 +9,7 @@
 - [Техническое задание](Scientific_Work/Task.pdf)
 - [Статья "Разработка устройства..." (2020)](Scientific_Work/Article2020.pdf)
 - [Статья "Разработка программного обеспечения..." (2021)](Scientific_Work/Article2021.pdf)
+- [Акселерация проекта](Scientific_Work/Accelerate.pdf)
 
 ## Модели и диаграммы
 
