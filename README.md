@@ -13,9 +13,9 @@
 ## Модели и диаграммы
 
 - [Первоначальный концепт](Concepts/Concept_v1.png)
-- [Use Case](Concepts/UseCase.png)
+- [Use Case (wip)](Concepts/UseCase.png)
 - [Концепт диалогового цикла](Concepts/Dialog.png)
-- [Модель предметной области](Concepts/DomainModel.png)
+- [Модель предметной области (wip)](Concepts/DomainModel.png)
 
 ## Ссылка на тестовую версию
 
