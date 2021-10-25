@@ -12,7 +12,7 @@
 
 ## Модели и диаграммы
 
-- [Первоначальный концепт](Concepts/Concept.png)
+- [Планируемый вид устройства](Concepts/Concept.png)
 - [Use Case (wip)](Concepts/UseCase.png)
 - [Концепт диалогового цикла](Concepts/Dialog.png)
 - [Модель предметной области (wip)](Concepts/DomainModel.png)
