@@ -17,6 +17,7 @@
 - [Use Case](Concepts/UseCase.png)
 - [Концепт диалогового цикла](Concepts/Dialog.png)
 - [Модель предметной области (wip)](Concepts/DomainModel.pdf)
+- [Схема расположения точек на ладони](Concepts/HandLandmarks.pdf)
 
 ## Ссылка на тестовую версию
 
