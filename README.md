@@ -16,7 +16,7 @@
 - [Планируемый вид устройства](Concepts/Device_on_hand.png)
 - [Use Case](Concepts/UseCase.png)
 - [Концепт диалогового цикла](Concepts/Dialog.png)
-- [Модель предметной области (wip)](Concepts/DomainModel.png)
+- [Модель предметной области (wip)](Concepts/DomainModel.pdf)
 
 ## Ссылка на тестовую версию
 
