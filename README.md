@@ -18,6 +18,9 @@
 - [Use Case](Concepts/UseCase.png)
 - [Концепт диалогового цикла](Concepts/Dialog.png)
 - [Модель предметной области](Concepts/DomainModel.pdf)
+- [BPMN Поведенческая модель](Concepts/bpmn.pdf)
+- [EPC Поведенческая модель](Concepts/epc.pdf)
+- [IDEF0](Concepts/IDEF0.pdf)
 - [Сценарий использования](Concepts/SequenceDiagram.md)
 - [Схема расположения точек на ладони](Concepts/HandLandmarks.pdf)
 
