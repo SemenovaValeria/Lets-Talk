@@ -5,6 +5,7 @@
 ## Научно-исследовательская часть
 
 - [Видение](Scientific_Work/Vision.md)
+- [Сравнение аналогов](Scientific_Work/Same_Things.pdf)
 - [Научно-технический отчет](Scientific_Work/First_Year_Report.pdf)
 - [Техническое задание](Scientific_Work/Task.pdf)
 - [Статья "Разработка устройства..." (2020)](Scientific_Work/Article2020.pdf)
